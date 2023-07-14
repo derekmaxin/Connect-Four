@@ -1,5 +1,5 @@
-    # A2 Graphs
-    Derek Maxin (dmaxin 20828472)
+    Connect Four desktop app (with animations!)
+    Derek Maxin 
  
     ## Setup
     * Windows 10
